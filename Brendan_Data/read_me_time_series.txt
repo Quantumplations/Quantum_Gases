@@ -1,0 +1,1 @@
+These files are the dynamics of the impurity for interaction 1/k_Fa =0.96, T=0.25T_F, and detuning to either the attractive polaron (-2.756E_F) or repulsive polaron (0.48E_F). The first column is time and second column the magnetisation. The units are in \tau_F for time.
